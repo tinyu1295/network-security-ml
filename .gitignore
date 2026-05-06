@@ -1,2 +1,4 @@
+test_mongo.py
+push_data.py
 venv
 .env
