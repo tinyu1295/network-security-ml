@@ -1,4 +1,7 @@
 test_mongo.py
 push_data.py
+__pycache__/
+*.pyc
+*.pyo
 venv
 .env
